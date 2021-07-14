@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi edad Canina</string>
+    <string name="age">¿Que edad tienes?</string>
+    <string name="YourAge">Introduce tu edad</string>
+    <string name="Calculate">Calcular</string>
+    <string name="Insert_Age">Debes insertar tu edad</string>
+    <string name="Calculated_Age">Tu edad canina es de %d años</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyDogAge</string>
+    <string name="age">How old are you?</string>
+    <string name="YourAge">Introduce your age</string>
+    <string name="Calculate">Calculate</string>
+    <string name="Insert_Age">You should insert your age</string>
+    <string name="Calculated_Age">Your Dog Age is %d years</string>
+</resources>
